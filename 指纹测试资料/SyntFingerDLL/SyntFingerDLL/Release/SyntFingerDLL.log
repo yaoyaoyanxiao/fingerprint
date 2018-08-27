@@ -1,0 +1,20 @@
+﻿生成启动时间为 2018/8/26 18:03:05。
+     1>项目“D:\c++code\指纹测试资料\SyntFingerDLL\SyntFingerDLL\SyntFingerDLL.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\360Downloads\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D SYNTFINGERDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SyntFinger.cpp
+         SyntFinger.cpp
+     1>d:\c++code\指纹测试资料\syntfingerdll\syntfingerdll\VF_PatternMatch.h(102): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\c++code\指纹测试资料\syntfingerdll\syntfingerdll\VF_PatternMatch.h(103): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\c++code\指纹测试资料\syntfingerdll\syntfingerdll\VF_PatternMatch.h(341): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\c++code\指纹测试资料\syntfingerdll\syntfingerdll\VF_PatternMatch.h(342): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\360Downloads\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\c++code\指纹测试资料\SyntFingerDLL\Release\SyntFingerDLL.dll" /INCREMENTAL:NO /NOLOGO /DEF:"Source.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\360Downloads\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"D:\c++code\指纹测试资料\SyntFingerDLL\Release\SyntFingerDLL.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\c++code\指纹测试资料\SyntFingerDLL\Release\SyntFingerDLL.lib" /MACHINE:X86 /SAFESEH /DLL Release\SyntFinger.obj
+            正在创建库 D:\c++code\指纹测试资料\SyntFingerDLL\Release\SyntFingerDLL.lib 和对象 D:\c++code\指纹测试资料\SyntFingerDLL\Release\SyntFingerDLL.exp
+         正在生成代码
+         已完成代码的生成
+         SyntFingerDLL.vcxproj -> D:\c++code\指纹测试资料\SyntFingerDLL\Release\SyntFingerDLL.dll
+     1>已完成生成项目“D:\c++code\指纹测试资料\SyntFingerDLL\SyntFingerDLL\SyntFingerDLL.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.56

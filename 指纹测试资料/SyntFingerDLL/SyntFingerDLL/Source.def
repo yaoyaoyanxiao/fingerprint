@@ -1,0 +1,6 @@
+LIBRARY  SyntFingerDLL
+EXPORTS 
+Add @1
+Analyze @2
+AnalyzeFromFile @3
+PatternMatch  @4

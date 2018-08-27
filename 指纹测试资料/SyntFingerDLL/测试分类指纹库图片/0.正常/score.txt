@@ -1,0 +1,5 @@
+Y_count=0,N_count=5151,sum=5151,ÈÏ¼ÙÂÊ=0.000000,time=116ms!
+num=1,score=21
+num=2,score=12
+num=3,score=13
+num=4,score=10
